@@ -1,0 +1,12 @@
+.socials {
+  padding-top: 15px;
+  max-width: 500px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-right: 10%;
+}
+
+.iconWrapper {
+  display: inline-block;
+}

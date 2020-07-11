@@ -1,0 +1,7 @@
+.headerImage {
+  display: flex;
+  flex-direction: row;
+  max-width: 650px;
+  padding-right: 30px;
+  padding-bottom: 45px;
+}
